@@ -1,0 +1,36 @@
+h1 { 
+	color: red; 
+	font-weight: 500; 
+	font-family: Arial; 
+	font-size: 40px; 
+	text-align: center;
+	}
+
+h2 { 
+	color: blue; 
+	font-size: 28px;
+	}
+
+img { 
+	border: 3px solid;
+	border-top-color: red;
+    border-right-color: cyan;
+    border-bottom-color: black;
+    border-left-color: green; 
+    width: 150
+   
+
+	}
+
+p { 
+	color: purple; 
+	font-size: 14px;
+	font-family: Arial;
+	}
+
+li {
+
+	color: orange;
+	font-size: 25px
+	}
+
